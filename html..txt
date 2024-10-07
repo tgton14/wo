@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<htmal lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title Politica  </TITLE> </head>
